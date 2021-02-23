@@ -4,10 +4,13 @@
 A cookie is a text-only string of information that this Website transfers to the cookie file of the browser on your computer's hard disk so that this Website can recognize you when you revisit and remember certain information about you. This can include which pages you have visited, choices you have made from menus, any specific information you have entered into forms and the time and date of your visit.
 
 # Types of Cookies
+
 There are two main types of cookies:
 
-# Session cookies: these are temporary cookies that expire at the end of a browser session; that is, when you leave the site. Session cookies allow this Website to recognize you as you navigate between pages during a single browser session and allow you to use this Website most efficiently. For example, session cookies enable a website to remember that a user has placed items in an online shopping basket.
+Session cookies: these are temporary cookies that expire at the end of a browser session; that is, when you leave the site. Session cookies allow this Website to recognize you as you navigate between pages during a single browser session and allow you to use this Website most efficiently. For example, session cookies enable a website to remember that a user has placed items in an online shopping basket.
+
 Persistent cookies: in contrast to session cookies, persistent cookies are stored on your equipment between browsing sessions until expiry or deletion. They therefore enable this Website to "recognize" you on your return remember your preferences and tailor services to you.
+
 In addition to session cookies and persistent cookies, there may be other cookies which are set by this Website which you have chosen to visit, such as this Website, in order to provide us or third parties with information.
 
 # Our Use of Cookies
